@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет братанчик!
 
-<!--
-**vifox8/vifox8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мои соц-сети: https://vifoxy.ru
 
-Here are some ideas to get you started:
+### Работаю над проектами:
+- ТинькоффАР для Minecast https://minecast.vifoxy.ru/bank/
+- ТинькоффАР для СПм https://bank.vifoxy.ru/bank/
+- Сайт для SMP Foundation на СП5 https://smp.vifoxy.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ранее работал над проектами (Сейчас в зоморозке)
+- Сайт MortarGame https://mortargame.ru
+- Сайт MortarGame для Minecraft серверов https://mortarcraft.ru
+
+## Ютуб канал: https://www.youtube.com/channel/UC9Ab4ypIiV6EtjxMcOmauUA
+
+### Изучаю и работая над следующими языками:
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vifox8&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vifox8&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vifox8&theme=dark)
