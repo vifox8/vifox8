@@ -3,12 +3,12 @@
 ## Мои соц-сети: https://vifoxy.ru
 
 ### Работаю над проектами:
-- ТинькоффАР для Minecast https://minecast.vifoxy.ru/bank/
 - Сайт для SMP Foundation на СП5 https://smp.vifoxy.ru
 
 ### Ранее работал над проектами (Сейчас в зоморозке)
 - Сайт MortarGame https://mortargame.ru
 - Сайт MortarGame для Minecraft серверов https://mortarcraft.ru
+- ТинькоффАР для Minecast https://minecast.vifoxy.ru/bank/
 - ТинькоффАР для СПм https://bank.vifoxy.ru/bank/
 
 ## Ютуб канал: https://www.youtube.com/channel/UC9Ab4ypIiV6EtjxMcOmauUA
