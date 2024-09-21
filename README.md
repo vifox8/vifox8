@@ -4,12 +4,13 @@
 
 ### Работаю над проектами:
 - Сайт для SMP Foundation на СП5 https://smp.vifoxy.ru
+- CrystalBank СПм ~
 
 ### Ранее работал над проектами (Сейчас в зоморозке)
 - Сайт MortarGame https://mortargame.ru
 - Сайт MortarGame для Minecraft серверов https://mortarcraft.ru
-- ТинькоффАР для Minecast https://minecast.vifoxy.ru/bank/
-- ТинькоффАР для СПм https://bank.vifoxy.ru/bank/
+- ~~ТинькоффАР для Minecast https://minecast.vifoxy.ru/bank/~~
+- ~~ТинькоффАР для СПм https://bank.vifoxy.ru/bank/~~
 
 ## Ютуб канал: https://www.youtube.com/channel/UC9Ab4ypIiV6EtjxMcOmauUA
 
