@@ -1,4 +1,4 @@
-# Привет братанчик!
+;# Привет братанчик!
 
 ## Мои соц-сети: https://vifoxy.ru
 
@@ -10,8 +10,6 @@
 ### Ранее работал над проектами (Сейчас в зоморозке)
 - Сайт MortarGame https://mortargame.ru
 - Сайт MortarGame для Minecraft серверов https://mortarcraft.ru
-- ~~ТинькоффАР для Minecast https://minecast.vifoxy.ru/bank/~~
-- ~~ТинькоффАР для СПм https://bank.vifoxy.ru/bank/~~
 
 ### Изучаю и работаю над следующими языками:
 <p align="left">
