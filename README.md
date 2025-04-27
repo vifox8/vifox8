@@ -3,11 +3,11 @@
 ## Мои соц-сети: https://vifoxy.ru
 
 ### Работаю над проектами:
-- Сайт для SMP Foundation на СП5 https://smp.vifoxy.ru
 - CrystalBank СПм ~
-- Mortar ID https://id.mortargame.ru
+- Mortar ID https://id.mortar.net.ru
 
 ### Ранее работал над проектами (Сейчас в зоморозке)
+- Сайт для SMP Foundation на СП5 https://smp.vifoxy.ru
 - Сайт MortarGame https://mortargame.ru
 - Сайт MortarGame для Minecraft серверов https://mortarcraft.ru
 
